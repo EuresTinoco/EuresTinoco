@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Eures Nivrem B. TInoco! 👋
 
-<!--
-**EuresTinoco/EuresTinoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a motivated BS Computer Science student with a strong interest in technology, analytical thinking, and ongoing personal development. I focus on exploring programming, databases, and various tools that support the creation of impactful and efficient solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+- **BS Computer Science**  
+  Your University  
+  2024–Present
+
+---
+
+## 📜 Certification
+
+- 
+
+---
+
+## 🛠️ Skill Sets
+
+- **Programming:** Java, JavaScript  
+- **Databases:** SQL  
+- **Tools:** Lucidchart, Eclipse, HTML
+
+---
+
+## 📬 Let’s Connect!
+
+- **[My LinkedIn](www.linkedin.com/in/eures-nivrem-tinoco-170608397)**
+- **[My Email](euresnivremtinoco@gmail.com)**
