@@ -13,13 +13,19 @@ Welcome to my GitHub profile. I am a motivated BS Computer Science student with 
 ###  Elementary  
 **Castillo Elementary School**
 
+
 ---
+
+
 ## 📜 Certificates
 
 <p align="left">
   🔹 <a href="https://courses.cognitiveclass.ai/certificates/fd81c7e9b0464e9382f3417f515501aa" target="_blank"><strong>SQL and Relational Databases 101</strong></a> — IBM (2025) <br>
+
  
 ---
+
+
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
