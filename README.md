@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Alexis%20Adrienne%20Gavarra&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+# Hi there, I'm **Eures Nivrem B. Tinoco**! 👋
+
+Welcome to my GitHub profile! I am a dedicated **BS Computer Science** student with a passion for technology, problem-solving, and continuous learning. I enjoy exploring programming, databases, and tools that help me create meaningful and efficient solutions.
 
 ##  Education:
 ---
@@ -23,14 +25,6 @@
   <a href="https://komarev.com/ghpvc/?username=euresnivremtinoco">
     <img src="https://komarev.com/ghpvc/?username=euresnivremtinoco&label=Profile%20views&color=00FFFF&style=flat-square" alt="euresnivremtinoco's profile views" />
   </a>
-</p>
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=euresnivremtinoco&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="euresnivremtinoco's GitHub Stats" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=euresnivremtinoco&theme=nightowl&radius=10" alt="euresnivremtinoco's Activity Graph" />
 </p>
 
 
