@@ -19,15 +19,7 @@ Welcome to my GitHub profile. I am a motivated BS Computer Science student with 
 <p align="left">
   🔹 <a href="https://courses.cognitiveclass.ai/certificates/fd81c7e9b0464e9382f3417f515501aa" target="_blank"><strong>SQL and Relational Databases 101</strong></a> — IBM (2025) <br>
  
- 
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=euresnivremtinoco">
-    <img src="https://komarev.com/ghpvc/?username=euresnivremtinoco&label=Profile%20views&color=00FFFF&style=flat-square" alt="euresnivremtinoco's profile views" />
-  </a>
-</p>
-
-
+---
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
