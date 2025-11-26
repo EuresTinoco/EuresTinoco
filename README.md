@@ -7,12 +7,6 @@ Welcome to my GitHub profile. I am a motivated BS Computer Science student with 
 ###  College  
 **New Era University**
 
-###  High School  
-**Sta. Lutgarda National High School**
-
-###  Elementary  
-**Castillo Elementary School**
-
 
 ---
 
