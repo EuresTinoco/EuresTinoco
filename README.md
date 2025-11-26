@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I am a motivated BS Computer Science student with 
 ## 🎓 Education:
 ---
 ###  College  
-**New Era University**
+**New Era University - Bachelor of Science in Computer Science**
 
 
 ---
