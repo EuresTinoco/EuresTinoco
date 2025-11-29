@@ -16,7 +16,9 @@ Welcome to my GitHub profile. I am a motivated BS Computer Science student with 
 <p align="left">
   🔹 <a href="https://courses.cognitiveclass.ai/certificates/fd81c7e9b0464e9382f3417f515501aa" target="_blank"><strong>SQL and Relational Databases 101</strong></a> — IBM (2025) <br>
 <p align="left">
-  🔹 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A734E39DD12290A61C612CFC3459CC91E4BC329756BF67740791A91447206743" target="_blank"><strong>OCI 2025 Foundation Associate</strong></a> — Oracle (2025) <br>
+  🔹 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=A734E39DD12290A61C612CFC3459CC91E4BC329756BF67740791A91447206743" target="_blank"><strong>Oracle Cloud Infrastructure Foundations Associate</strong></a> — Oracle (2025) <br>
+<p align="left">
+  🔹 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=44ABE39DEDA70465F5B818E5B492E7A70936C653CEFCC7D6A730DA8380AE542B" target="_blank"><strong>Oracle Data Platform Foundations Associate</strong></a> — Oracle (2025) <br>
 
  
 ---
